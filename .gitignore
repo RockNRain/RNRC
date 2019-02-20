@@ -1,0 +1,32 @@
+src/*.exe
+src/RNRC
+src/RNRCd
+src/test_RNRC
+src/build.h
+src/obj/*.o
+src/obj/*.P
+src/obj/*.d
+src/obj/zerocoin/*.o
+src/obj/zerocoin/*.P
+src/obj/zerocoin/*.d
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.RNRC
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+RNRC-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile

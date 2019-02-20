@@ -1,0 +1,9 @@
+Building RNRC
+
+See doc/readme-qt.rst for instructions on building RNRC QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RNRC.
+
+See doc/build-*.txt for instructions on building RNRCd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RNRC.
